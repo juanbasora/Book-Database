@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter.ttk import *
-import sqlite3
 from backend import Database
 from tkinter import messagebox
 
