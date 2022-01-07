@@ -3,5 +3,4 @@
 
 
 ## General info
-A user interface made with python Tkinter that can save book information such as Title, Author, release year, and a short book description.
-The information is then saved in a SQL database.
+A UI tool made with python that can save book information such as title, author, release year, and book information into a SQL database. This information can then be retrieved, viewed, and saved within a SQL database
